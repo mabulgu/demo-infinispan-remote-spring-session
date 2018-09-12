@@ -1,0 +1,3 @@
+org/jboss/as/quickstarts/datagrid/spring/session/configuration/InfinispanConfiguration.class
+org/jboss/as/quickstarts/datagrid/spring/session/MainClass.class
+org/jboss/as/quickstarts/datagrid/spring/session/configuration/SessionsController.class
